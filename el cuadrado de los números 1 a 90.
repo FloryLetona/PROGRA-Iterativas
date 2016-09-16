@@ -1,0 +1,8 @@
+using System;
+class program
+{
+static void Main()
+{
+int multi=0;
+int i; 
+for (i = 1; i <= 90; i++) { multi = multi ; Console.WriteLine(  "El cuadrado de  "   +i+   " es  ="  +((i*i))); } Console.ReadKey(); } }
